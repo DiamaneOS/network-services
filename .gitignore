@@ -7,3 +7,7 @@
 /static-staging/
 /static-tmp/
 /venv/
+
+hosts.private.sh
+
+servers.private.sh
