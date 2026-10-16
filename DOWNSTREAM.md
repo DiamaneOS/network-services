@@ -2,7 +2,7 @@
 
 Upstream provenance is recorded in [UPSTREAM.json](UPSTREAM.json). The upstream MIT license is retained in [LICENSE](LICENSE).
 
-The nginx implementations retain their upstream protocols. DiamaneOS changes endpoint names, publication bindings and Debian integration. Geocoding and website publication are excluded; authoritative DNS is external.
+The nginx implementations retain their upstream protocols. DiamaneOS changes endpoint names, publication bindings and Debian integration. Geocoding and website publication are excluded. Authoritative DNS is external.
 
 Deployment uses [DiamaneOS/infrastructure](https://github.com/DiamaneOS/infrastructure/tree/main/debian). Targets are supplied explicitly. Inherited fleet installation scripts are outside that Debian deployment path.
 
